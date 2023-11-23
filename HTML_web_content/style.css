@@ -1,0 +1,15 @@
+body {
+    font-family: 'Jura';
+    font-size: 25;
+    font-weight: 550;
+}
+
+div {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+#iframe-web {
+    -webkit-transform:scale(0.5);
+    -moz-transform-scale:scale(0.5);
+}
